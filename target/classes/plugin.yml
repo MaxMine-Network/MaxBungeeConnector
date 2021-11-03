@@ -1,0 +1,4 @@
+name: MaxBungeeConnecter
+main: ru.maxmine.bungee.CoreConnecter
+version: 1.0
+author: TheMrLiamt

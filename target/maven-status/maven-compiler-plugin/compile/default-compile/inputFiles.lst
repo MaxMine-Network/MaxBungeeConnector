@@ -1,0 +1,17 @@
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\packets\player\PlayerRedirectPacket.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\packets\server\ServerConnectPacket.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\packets\command\RegisterCommandPacket.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\packets\command\CommandExecutePacket.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\packets\Packet.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\packets\player\PlayerKickPacket.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\packets\player\PlayerJoinPacket.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\packets\player\PlayerChangeServer.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\codec\Encoder.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\buffer\PacketBuffer.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\packets\player\PlayerMessageRecieve.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\packets\PacketManager.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\listeners\CoreListener.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\codec\Decoder.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\connecter\Core.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\connecter\ConnectionHandler.java
+C:\Users\kodze\IdeaProjects\MaxBungeeConnector\src\main\java\ru\maxmine\bungee\CoreConnecter.java
